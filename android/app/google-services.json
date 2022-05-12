@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585338984125",
+    "project_id": "gifty-806f1",
+    "storage_bucket": "gifty-806f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585338984125:android:1730ef2a3515c13dcb09d4",
+        "android_client_info": {
+          "package_name": "com.atranphan.gifty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585338984125-m6icp1kn6m143sf5lce5h1kpanc0r8hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlRT1dSlwKffwqTFFNhsNrQLHsjqN94Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585338984125-m6icp1kn6m143sf5lce5h1kpanc0r8hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
